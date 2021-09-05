@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">yellow</string>
+
+    <string name="login_error">Login error</string>
+    <string name="time">Time</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="distance">Distance</string>
+    <string name="update_jog">Update jog</string>
+    <string name="add_new_jog">Add new jog</string>
+    <string name="uuid">UUID</string>
+    <string name="login">Login</string>
+    <string name="jogs">Jogs</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="fields_cannot_be_empty">Fields cannot be empty</string>
+    <string name="server_error">Server error</string>
+</resources>
