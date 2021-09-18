@@ -64,9 +64,6 @@ class JogsActivity : AppCompatActivity(), EditButtonClickListener, UpdateJogList
 
         jogsRecyclerView.layoutManager = LinearLayoutManager(this)
         jogsRecyclerView.adapter = jogAdapter
-//        jogsRecyclerView.addOnScrollListener{
-//
-//        }
     }
 
     override fun onEditButtonClick(item: JogData) {
